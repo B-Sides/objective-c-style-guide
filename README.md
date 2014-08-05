@@ -2,7 +2,7 @@
 
 This style guide outlines the coding conventions of the iOS team at [Burnside Digital](http://burnsidedigital.com).
 
-Forked from [NYTime Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide).
+Forked from [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide).
 
 ## Introduction
 
